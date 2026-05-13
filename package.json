@@ -1,0 +1,12 @@
+{
+  "name": "aec-compliance-tracker",
+  "version": "4.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "python3 -m http.server 5173",
+    "build": "node scripts/build.mjs"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
