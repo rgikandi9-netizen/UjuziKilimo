@@ -1,0 +1,4 @@
+node_id,farmer_name,county,nearest_town,plot_name,latitude,longitude,area_acres,onboarded_date,agreement_id,notes
+AEC-KE-NYA-MAI-001,Raphie,Nyandarua,Mairoinya,Grandfather five-acre demonstration plot,,,,,AEC-FPA-001,
+AEC-KE-NYE-KAR-002,,Nyeri,Karatina,Uncle-managed AEC plot,,,,,,
+AEC-KE-NYE-KAN-003,,Nyeri,Kanjuri,Uncle-managed AEC plot,,,,,,
